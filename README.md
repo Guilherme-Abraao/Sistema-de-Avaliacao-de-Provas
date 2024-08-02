@@ -1,16 +1,24 @@
-<h1>Projeto: Sistema de Elaboração de Provas (SEP)</h1>
+# 💻 Projeto - Sistema de Elaboração de Provas (SEP)
 
-<h3>Breve escopo do sistema (Para mais detalhes ver "Documento de Especificacao de Requisitos")</h3>
+### Escopo
 
 A aplicação consiste em gerenciar a elaboração de questões para um concurso público, possibilitando o cadastro de cada certame pelo coordenador pedagógico, que indicará os professores que farão parte da banca, elaborando questões, bem como os professores que farão as revisões.
 
-O sistema não gerenciará os aspectos administrativos do concurso público, servindo tão somente para a elaboração das questões.
+O sistema não gerenciará os aspectos administrativos do concurso público, servindo tão somente para a elaboração das questões. Para mais detalhes ver "Documento de Especificacao de Requisitos"
 
-<h3>Tecnologias utilizadas (Mais específicados no documento "Documento de Arquitetura - SEP")</h3>
+# 🚀 Tecnologias 
 
-- Vaadin: framework Java para desenvolvimento de aplicações web
-- PostgreSQL: sistema de gerenciamento de banco de dados (SGBD)
-- Hibernate: é uma implementação do JPA (Java Persistence API), ele implementa uma API para interagir com o banco de dados e persistir os dados.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<h3>Componentes do grupo:</h3>
-Gabriel Reis Do Valle Silvestre, Guilherme Abraão da Silva, João Gabriel Tavares Felix Monteiro e Karlla Loane Santos Lima
+- Frontend e Backend: Vaadin (Framework Java)
+- Banco de Dados: Hibernate (é uma implementação do JPA (Java Persistence API), ele implementa uma API para interagir com o banco de dados e persistir os dados.)
+- Controle de versão: Git e GitHub 
+
+# 👥 Equipe
+
+| Nome              | Função     | Usuário Git                                                                    	|
+|-------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Karlla Loane     	  | Gerente do projeto, Frontend/Backend Developer, Analista de requisitos e documentação       | [karllaloane](https://github.com/karllaloane)		 	 |
+| Gabriel Reis     	  | Analista de requisitos e documentação   				    			| [gabrielreisdvs](https://github.com/gabrielreisdvs)	 	 |
+| Guilherme Abraão 	  | Frontend/Backend Developer, Analista de requisitos e documentação   			| [Guilherme-Abraao](https://github.com/Guilherme-Abraao)  	 |
+| João Gabriel Tavares    | Frontend/Backend Developer, Analista de requisitos e documentação   		  	| [JoaoUFG](https://github.com/JoaoUFG)	  			 |
